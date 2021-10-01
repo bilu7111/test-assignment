@@ -29,7 +29,7 @@ let s_ev_keys = Object.keys(data.data.sporting_events);
 for(let i=0;i < s_ev_keys.length; i++){
   sporting_events.push(data.data.sporting_events[s_ev_keys[i]]);
 }
-
+//
 // Getting duplicates in sporting_events array and arranging them in another array
 let similar_events = [];
 
