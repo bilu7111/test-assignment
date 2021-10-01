@@ -1,0 +1,14 @@
+{
+  "name": "test-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "author": "Hamid Akhtar",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
